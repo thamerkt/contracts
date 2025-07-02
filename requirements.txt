@@ -10,3 +10,4 @@ dotenv
 kafka-python
 docusign-esign
 xhtml2pdf
+google-generativeai
